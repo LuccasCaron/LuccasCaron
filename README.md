@@ -5,6 +5,8 @@ I'm a software developer driven by the desire to solve real-world problems throu
 ### 🔧 Technologies & Tools
 - **Backend:** .NET, Node.js
 - **Frontend:** React, React Native
+- **Cloud Services:** Azure (Web Apps, Deployment, Databases)
+- **Other Tools:** Git, Docker, CI/CD
 <!--
 **LuccasCaron/LuccasCaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
