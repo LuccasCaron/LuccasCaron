@@ -1,4 +1,4 @@
-# Hey, I'm Luccas Caron 👋
+## Hey, I'm Luccas Caron 👋
 
 I'm a software developer driven by the desire to solve real-world problems through technology.
 
